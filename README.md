@@ -1,2 +1,2 @@
-# JSPsessionShoppingCart
-JSP source code for a Shopping Cart
+# PHPsessionShoppingCart
+PHP source code for a Shopping Cart
